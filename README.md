@@ -47,7 +47,7 @@ smart-3d-shape-analyzer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/smart-3d-shape-analyzer.git
+git clone https://github.com/Hamza2172/Smart-3D-Shape-Analyzer.git
 cd smart-3d-shape-analyzer
 
 # Install dependencies
